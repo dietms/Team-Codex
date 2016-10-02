@@ -35,17 +35,17 @@ title: home
       </div>
 	  <div class="main">
 		<div class="content-top">
-			<h2>snowboards</h2>
-			<p>hendrerit in vulputate velit esse molestie consequat, vel illum dolore</p>
+			<h2>Games</h2>
+			<p>Rules and Regulation</p>
 			<div class="close_but"><i class="close1"> </i></div>
 				<ul id="flexiselDemo3">
 				<li><img src="chess.jpg" /></li>
 				<li><img src="volleyball.jpg" /></li>
 				<li><img src="carrom.jpg" /></li>
 				<li><img src="badminton.jpg" /></li>
-				<li><img src="images/board5.jpg" /></li>
+				<li><img src="" /></li>
 			</ul>
-		<h3>SnowBoard Extreme Series</h3>
+		<h3>Sports Club</h3>
 			<script type="text/javascript">
 		$(window).load(function() {
 			$("#flexiselDemo3").flexisel({
